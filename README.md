@@ -17,7 +17,7 @@ The following features are completed:
 
 Here's a GIF demonstrating the app's features:
 
-[![Video Demo](]()
+<img src='https://github.com/AnasGamal/RandomPet/blob/main/Kapture%202024-03-19%20at%2023.33.18.gif?raw=true' title='Video Demo' width='' alt='Video Demo' />
 
 
 ## License
